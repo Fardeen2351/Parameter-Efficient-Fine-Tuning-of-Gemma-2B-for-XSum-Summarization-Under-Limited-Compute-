@@ -1,0 +1,2 @@
+# Parameter-Efficient-Fine-Tuning-of-Gemma-2B-for-XSum-Summarization-Under-Limited-Compute-
+LLMs based on transformers excel at abstractive summarization, but complete fine-tuning is usually unfeasible with restricted computing resources. This study assesses a Gemma-2B instruction-tuned model on the XSum summarization task, contrasting a baseline (without fine-tuning) system with parameter-efficient fine-tuning utilizing QLoRA. 
